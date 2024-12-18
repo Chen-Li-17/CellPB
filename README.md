@@ -9,3 +9,6 @@ CellPB is a benchmarking framework with rich collection of data to systematicall
 By clearly distinguishing these scenarios, the framework offers a flexible and fair evaluation of various computational methods.
 
 ## Illustration of overview framework
+<p align="center">
+  <img src="https://github.com/Chen-Li-17/CellPB/blob/main/inst/Fig%201.jpg" width=100%>
+</p>
